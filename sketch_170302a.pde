@@ -15,7 +15,7 @@ float n = 7;
 float d = 9;
 float c = 0.09;
 void setup() {
-  size(600,600);
+  size(800,600);
   k = n / d;
 }
 
